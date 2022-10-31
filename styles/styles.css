@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.main-content {
+    
+}
+
+.sidebar {
+ 
+}
