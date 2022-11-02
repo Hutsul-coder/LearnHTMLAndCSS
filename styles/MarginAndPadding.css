@@ -1,0 +1,38 @@
+.sidebar-padding {
+    background-color: bisque;
+    border: 1px solid black;
+
+     /* внутрішний відступ */
+    padding: 10px 10px 10px 10px;
+    
+    /* значення для кожної сторони окремо */
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+    /* top | left and right | bottom*/
+    padding: 10px 50px 10px;
+
+    /* top and bottom | left and right */
+    padding: 10px 10px;
+
+    /* Apply to all four sides */
+    padding: 1px;
+
+    /* Global values */
+    padding: inherit;
+    padding: initial;
+    padding: revert;
+    padding: revert-layer;
+    padding: unset;
+
+}
+
+.sidebar-margin {
+    background-color: aquamarine;
+    border: 1px solid;
+
+    /* Зовнішний відступ */
+    margin: 10px 20px 10px 150px;
+}
